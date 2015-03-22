@@ -21,7 +21,7 @@ The variables covered in the scope of the analysis are both mean values and stan
 - fBodyGyroJerkMag
 
 Mean values were calculated for each variable broken down by the activity type (running, sitting, walking, laying, etc.) and by the subject involved in the study. 
-
+Please see the last section of this code book for further explanation on the meaning of each variable and the type of observation to which it relates.
 
 # Units
 
